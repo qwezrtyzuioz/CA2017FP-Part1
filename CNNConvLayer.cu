@@ -67,7 +67,10 @@ void convLayerCPU()
 }
 
 /***	Implement your CUDA Kernel here	***/
-
+__global__
+void convLayerGPU()
+{
+}
 /***	Implement your CUDA Kernel here	***/
 
 int main()
@@ -89,8 +92,8 @@ int main()
 	//Convolution by GPU   
 	clock_gettime(CLOCK_REALTIME, &time_begin);
 	/***	Lunch your CUDA Kernel here	***/
-	
-	
+	convLayerGPU<<<1,1>>>(); // Lunch the kernel
+	cudaDeviceSynchronize(); // Do synchronization before clock_gettime()
 	/***	Lunch your CUDA Kernel here	***/
 	clock_gettime(CLOCK_REALTIME, &time_end);
 	convLayerGPUExecTime = timespec_diff_us(time_begin, time_end);
