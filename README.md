@@ -71,9 +71,9 @@ Speedup = convLayerCPU_execTime / convLayerGPU_execTime
 * **DELAY IS NOT ACCEPTABLE !!!** <br/>
 
 ## Useful Reference
-* Introduction to CNN -1 [here](http://cs231n.github.io/convolutional-networks/)
+* Introduction to CNN -1 [Here](http://cs231n.github.io/convolutional-networks/)
 * Introduction to CNN -2 [Chinese version](https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_convolutional_neural_networks_work.html) &nbsp;   [English version](https://brohrer.github.io/how_convolutional_neural_networks_work.html)
-* Introduction to CUDA [here](http://www.nvidia.com/docs/io/116711/sc11-cuda-c-basics.pdf)
-* NVVP [here](http://people.maths.ox.ac.uk/gilesm/cuda/lecs/NV_Profiling_lowres.pdf)
-* GPU Profiling [here](http://docs.nvidia.com/cuda/profiler-users-guide/index.html#axzz4PPDcxdt6)
+* Introduction to CUDA [Here](http://www.nvidia.com/docs/io/116711/sc11-cuda-c-basics.pdf)
+* NVVP [Here](http://people.maths.ox.ac.uk/gilesm/cuda/lecs/NV_Profiling_lowres.pdf)
+* GPU Profiling [Here](http://docs.nvidia.com/cuda/profiler-users-guide/index.html#axzz4PPDcxdt6)
 
