@@ -8,4 +8,5 @@ Part-1：Implement convolution , relu , and maxpooling in convLayerGPU() with CU
 
 ### ./data
 This directory contains the input data for the base program
-
+/data/filt.txt - Store the values of filters
+/data/inNeu.txt - Store the values of input neurons
