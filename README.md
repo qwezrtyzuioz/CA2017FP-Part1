@@ -1,5 +1,5 @@
 <h1> NCTU 2017 Computer Architecture Final Project - Part 1
-
+===========
 <br />
 
 Part-1：Implement convolution , relu , and maxpooling in convLayerGPU() with CUDA and store your result in the outGPU and use NVVP to analyze your code.
