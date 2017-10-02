@@ -4,8 +4,8 @@ Part-1：Implement convolution , relu , and maxpooling in convLayerGPU() with CU
 
 
 
-# Three sub-directory
+## Three sub-directory
 
-## ./data
+### ./data
 This directory contains the input data for the base program
 
