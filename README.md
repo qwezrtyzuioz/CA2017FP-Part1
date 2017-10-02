@@ -14,4 +14,4 @@ The program under this directory can show the device information.
 
 ### ./example
 There are two examples(InnerProduct and Matrix Multiplication) under this directory.
-`  SRE
+										SRE
