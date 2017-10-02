@@ -76,7 +76,7 @@ Speedup = convLayerCPU_execTime / convLayerGPU_execTime
 * Make sure TA can compile and run your code with “make” and “make run” on the provided server.<br/>
 * **Any CUDA library is forbidden to use in this project !!!** <br/>
 * **DELAY IS NOT ACCEPTABLE !!!** <br/>
-* **Due day：2017/10/26(四) 23:50 ** <br/>
+* **Due day：2017/10/26(四) 23:50** <br/>
 
 ## Useful Reference
 * Introduction to CNN -1 [Here](http://cs231n.github.io/convolutional-networks/)
