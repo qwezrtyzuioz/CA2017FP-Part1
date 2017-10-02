@@ -22,14 +22,20 @@ make run
 There are two examples(InnerProduct and Matrix Multiplication) under this directory.
 #### usage
 <pre>
-cd example/InnerProduct/
+cd ./example/InnerProduct/
 make
 make run
 
 or
 
-cd example/MatrixMultiplication/
+cd ./example/MatrixMultiplication/
 make
 make run
 </pre >
 
+## Usage of the base program
+#### usage
+<pre>
+make
+make run
+</pre>
