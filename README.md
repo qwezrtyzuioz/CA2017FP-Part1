@@ -13,10 +13,10 @@ This directory contains the input data for the base program：
 The program under this directory can show the device information.
 #### usage
 <pre>
-cd ./device
-make
-make run
-<pre />
+  cd ./device
+  make
+  make run
+</pre>
 
 ### ./example
 There are two examples(InnerProduct and Matrix Multiplication) under this directory.
@@ -31,5 +31,5 @@ or
 cd example/MatrixMultiplication/
 make
 make run
-<pre />
+</pre >
 
