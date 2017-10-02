@@ -2,6 +2,12 @@
 
 Part-1：Implement convolution , relu , and maxpooling in convLayerGPU() with CUDA and store your result in the outGPU and use NVVP to analyze your code.
 
+## Download
+At command line type:
+<pre>
+git clone https://github.com/s0606757/CA2017FP-Part1.git
+</pre>
+
 ## Three sub-directory
 
 ### ./data
@@ -61,7 +67,8 @@ Speedup = convLayerCPU_execTime / convLayerGPU_execTime
 
 ## Other Rules
 * It’s team work, 1 ~ 3 people in one team <br/>
-   - Register [here](https://docs.google.com/spreadsheets/d/1aHcLT-Vgas2IKpcKJp82uuN9EMY35LC4S9QIeVKlQu8/edit#gid=0) before deadline<br/>
+   - Register [here](https://docs.google.com/spreadsheets/d/1aHcLT-Vgas2IKpcKJp82uuN9EMY35LC4S9QIeVKlQu8/edit#gid=0) before deadline.<br/>
+* [Account list](https://docs.google.com/spreadsheets/d/1hLfJjv58QsXRwLlma45IflcpicqlQFgYiKp77vlJokk/edit#gid=0)
 * Compress your **code** and **report** into one zip file and upload to E3.<br/>
 * Name your report as：**LeaderID_Report_FP1.pdf**<br/>
 * Name your package as： **LeaderID_FP1.zip**<br/>
