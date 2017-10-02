@@ -59,3 +59,14 @@ Speedup = convLayerCPU_execTime / convLayerGPU_execTime
 &nbsp;&nbsp;&nbsp;    We will rank your CUDA kernels’ performance(execution time) on GTX K20C<br/>
 &nbsp;&nbsp;&nbsp;    The fastest one will get 30% and the last one will get 1%<br/>
 
+## Other Rules
+* It’s team work, 1 ~ 3 people in one team <br/>
+   - Register here before deadline<br/>
+* Compress your **code** and **report** into one zip file and upload to E3.<br/>
+* Name your report as：**LeaderID_Report_FP1.pdf**<br/>
+* Name your package as： **LeaderID_FP1.zip**<br/>
+* One team only need to upload **one** package to E3.<br/>
+* Make sure TA can compile and run your code with “make” and “make run” on the provided server.<br/>
+* **Any CUDA library is forbidden to use in this project !!!** <br/>
+* **DELAY IS NOT ACCEPTABLE !!!** <br/>
+
