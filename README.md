@@ -2,11 +2,15 @@
 
 Part-1：Implement convolution , relu , and maxpooling in convLayerGPU() with CUDA and store your result in the outGPU and use NVVP to analyze your code.
 
-
-
 ## Three sub-directory
 
 ### ./data
-This directory contains the input data for the base program
-/data/filt.txt - Store the values of filters
-/data/inNeu.txt - Store the values of input neurons
+This directory contains the input data for the base program：
+* . /data/filter.txt - Store the values of filters
+* . /data/neuron.txt - Store the values of input neurons
+
+### ./device
+The program under this directory can show the device information.
+
+### ./example
+There are two examples(InnerProduct and Matrix Multiplication) under this directory.
