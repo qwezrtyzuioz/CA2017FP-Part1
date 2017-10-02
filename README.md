@@ -32,11 +32,5 @@ cd ./example/MatrixMultiplication/
 make
 make run
 </pre >
-<br />
-# Usage of the base program
-<br />
 
-<pre>
-make
-make run
-</pre>
+# Usage of the base program 
