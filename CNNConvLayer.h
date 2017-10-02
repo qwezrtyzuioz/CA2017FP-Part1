@@ -27,7 +27,7 @@ void init()
 	int outVol = FILTNUM * FMSIZE/3 * FMSIZE/3;
 	
 	inNeu = new int[FMSIZE*FMSIZE*FMDEPTH]();
-	ifs.open("data/image.txt", ifstream::in);
+	ifs.open("data/neuron.txt", ifstream::in);
 	if(!ifs.is_open()){
 		cout << "Can not open the neurons input file\n";
 	}
