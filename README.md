@@ -13,9 +13,9 @@ This directory contains the input data for the base program：
 The program under this directory can show the device information.
 #### usage
 <pre>
-  cd ./device
-  make
-  make run
+cd ./device
+make
+make run
 </pre>
 
 ### ./example
