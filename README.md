@@ -61,7 +61,7 @@ Speedup = convLayerCPU_execTime / convLayerGPU_execTime
 
 ## Other Rules
 * It’s team work, 1 ~ 3 people in one team <br/>
-   - Register here before deadline<br/>
+   - Register [here](https://docs.google.com/spreadsheets/d/1aHcLT-Vgas2IKpcKJp82uuN9EMY35LC4S9QIeVKlQu8/edit#gid=0) before deadline<br/>
 * Compress your **code** and **report** into one zip file and upload to E3.<br/>
 * Name your report as：**LeaderID_Report_FP1.pdf**<br/>
 * Name your package as： **LeaderID_FP1.zip**<br/>
@@ -69,4 +69,11 @@ Speedup = convLayerCPU_execTime / convLayerGPU_execTime
 * Make sure TA can compile and run your code with “make” and “make run” on the provided server.<br/>
 * **Any CUDA library is forbidden to use in this project !!!** <br/>
 * **DELAY IS NOT ACCEPTABLE !!!** <br/>
+
+## Useful Reference
+* Introduction to CNN -1 
+* Introduction to CNN -2   
+* Introduction to CUDA
+* NVVP
+* GPU Profiling 
 
