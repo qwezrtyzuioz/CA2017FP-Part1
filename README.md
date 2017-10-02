@@ -16,7 +16,7 @@ The program under this directory can show the device information.
 cd ./device
 make
 make run
-<p>
+</p>
 
 ### ./example
 There are two examples(InnerProduct and Matrix Multiplication) under this directory.
@@ -31,5 +31,5 @@ or
 cd example/MatrixMultiplication/
 make
 make run
-<pre>
+<pre/>
 
