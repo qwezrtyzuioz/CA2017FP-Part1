@@ -11,7 +11,25 @@ This directory contains the input data for the base program：
 
 ### ./device
 The program under this directory can show the device information.
+#### usage
+<p>
+cd ./device
+make
+make run
+<p>
 
 ### ./example
 There are two examples(InnerProduct and Matrix Multiplication) under this directory.
-    SRE
+#### usage
+<pre>
+cd example/InnerProduct/
+make
+make run
+
+or
+
+cd example/MatrixMultiplication/
+make
+make run
+<pre>
+
