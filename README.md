@@ -34,6 +34,7 @@ make run
 </pre >
 
 ## Usage of the base program
+<br />
 #### usage
 <pre>
 make
